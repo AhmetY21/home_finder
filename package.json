@@ -1,0 +1,7 @@
+{
+  "name": "home-finder",
+  "version": "1.0.0",
+  "dependencies": {
+    "@googlemaps/google-maps-services-js": "^3.3.31"
+  }
+}
